@@ -37,10 +37,12 @@ This tool performs basic analysis on a given DNA sequence, including:
 
 ---
 
-Update README with detailed project description
 
 ## Author
 Created by **Sahel Sepehri**  
 🎓 Summer 2025 | Inspired by [Rosalind.bio](https://rosalind.info)
 
 ---
+
+
+Update README with detailed project description
